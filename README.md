@@ -1,4 +1,4 @@
-/*This project has been realised in the context of a Tech Test and here is what was given*/
+/*This project has been realised in the context of a Tech Test */
 
 B. Exercice Frontend
 
