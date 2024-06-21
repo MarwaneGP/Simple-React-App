@@ -68,6 +68,12 @@ table {
 
 td {
   height: 2vw;
+  padding: 0.5vw;
+}
+
+
+tr:nth-of-type(even) {
+  background-color: #292929;
 }
 
 .card {
