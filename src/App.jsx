@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Routes>
         <Route path='/' element={<UserList/>}/>
-        <Route path='/user/:id' element={<UserProfile/>}/>
-        <Route path='/album/:id' element={<AlbumPage/>}/>
+        <Route path='/user/:id' element={<UserProfile/>}/>{/* we add a filler for the user ID so we can use it later */}
+        <Route path='/album/:id' element={<AlbumPage/>}/>{/* same here */}
       </Routes>
     </Router>
   )

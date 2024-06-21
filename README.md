@@ -6,6 +6,9 @@ Creating a simple application with React
 Via NPM : $ npm create vite@latest
 or Yarn : $ yarn create vite
 
+in this case N
+
+
 The application
 Based on the following apis => https://jsonplaceholder.typicode.com/ create a react application that
 displays:
@@ -29,3 +32,5 @@ Presentation of a photo album page : The album page features:
 album title
 the thumbs of the photos contained in the album in question in the form of a mosaic
 A link takes you back to the user's file.
+
+/*Comments have been added*/
